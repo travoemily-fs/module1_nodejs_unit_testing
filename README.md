@@ -15,7 +15,9 @@
 
 ## ✅✅ Assignment Checklist
 
-> 💡 **OVERVIEW:** You are going to write your own unit test using the Math modules using Jest that will **add**, **subtract**, **multiply** and **divide**. 
+>  **OVERVIEW:** You are going to write your own unit test using the Math modules using Jest that will **add**, **subtract**, **multiply** and **divide**. 
+
+### ℹ️ Required tests are located in the testingAssignment folder, titled `math.js` and `math.tests.js`!
 
 - [] Your add function will take in 2 numbers and return the sum
 - [] Your subtract function will take in 2 parameters and return the difference
