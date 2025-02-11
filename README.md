@@ -1,7 +1,8 @@
-# 🔐📚 WDV353: Module 1 ➥ 1.7 NodeJS Unit Testing Assignment 
-
+# 🔐📚 WDV353: Module 1 ➥ 1.7 NodeJS Unit Testing Assignment
 
 ![Banner](https://www.dropbox.com/scl/fi/igyo59flz5or36hrb22ij/banner.png?rlkey=eeift1ygsp6w1quvfofud1biq&raw=1)
+
+### 🎥 Video presentation ⤷ [x](https://youtu.be/glAfx2a_hj4)
 
 ## 🔗 Student info
 
@@ -15,7 +16,7 @@
 
 ## ✅✅ Assignment Checklist
 
->  **OVERVIEW:** You are going to write your own unit test using the Math modules using Jest that will **add**, **subtract**, **multiply** and **divide**. 
+> **OVERVIEW:** You are going to write your own unit test using the Math modules using Jest that will **add**, **subtract**, **multiply** and **divide**.
 
 ### ℹ️ Required tests are located in the testingAssignment folder, titled `math.js` and `math.tests.js`!
 
